@@ -1,0 +1,2 @@
+2025-05-17 22:08:02 | Sipariş: ananas, mango, ahududu | Toplam Fiyat: 32 TL
+2025-05-17 22:09:07 | Sipariş: ahududu, çilek, ananas | Toplam Fiyat: 24 TL

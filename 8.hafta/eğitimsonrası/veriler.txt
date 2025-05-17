@@ -1,0 +1,2 @@
+Mustafa Arka, Yaş: 21, Boy: 186.0 m, Kilo: 81.0 kg, VKİ: 0.00, Sınıf: Zayıf
+Asude Kaya, Yaş: 22, Boy: 155.0 m, Kilo: 83.0 kg, VKİ: 0.00, Sınıf: Zayıf
